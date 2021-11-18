@@ -10,7 +10,7 @@ import Slider from "./Slider/Slider";
 import { homeObj1, homeObj2, homeObj3 } from "./InfoData";
 
 const Container = styled.div`
-  height: 10%;
+  height: 100%;
   background: linear-gradient(
     90deg,
     rgba(2, 0, 36, 1) 0%,
